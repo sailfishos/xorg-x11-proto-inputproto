@@ -1,7 +1,7 @@
 Name: xorg-x11-proto-inputproto
 Summary: X.Org X11 Protocol inputproto
 Description: This extension defines a protocol to provide additional input devices management such as graphic tablets.
-Version: 2.2
+Version: 2.3
 Release: 1
 Group: Development/System
 License: MIT
